@@ -1,0 +1,44 @@
+{
+  "0.6": {
+    "max_relative_energy_error": 7.227681355710769e-05,
+    "min_distance": 26.341998962580973,
+    "max_distance": 120.0,
+    "sim_time": 522.1000000000729,
+    "steps": 10442
+  },
+  "0.75": {
+    "max_relative_energy_error": 6.703429260834008e-06,
+    "min_distance": 46.95672499218698,
+    "max_distance": 120.0,
+    "sim_time": 522.1000000000729,
+    "steps": 10442
+  },
+  "1": {
+    "max_relative_energy_error": 5.213962595007615e-13,
+    "min_distance": 120.0,
+    "max_distance": 120.00008689232715,
+    "sim_time": 522.1000000000729,
+    "steps": 10442
+  },
+  "1.4": {
+    "max_relative_energy_error": 9.465824843957126e-06,
+    "min_distance": 120.0,
+    "max_distance": 924.7784065099639,
+    "sim_time": 522.1000000000729,
+    "steps": 10442
+  },
+  "1.5": {
+    "max_relative_energy_error": 1.8503257328461565e-06,
+    "min_distance": 120.0,
+    "max_distance": 1194.234411936005,
+    "sim_time": 522.1000000000729,
+    "steps": 10442
+  },
+  "1.6": {
+    "max_relative_energy_error": 9.864394859044569e-07,
+    "min_distance": 120.0,
+    "max_distance": 1436.9061726661764,
+    "sim_time": 522.1000000000729,
+    "steps": 10442
+  }
+}
